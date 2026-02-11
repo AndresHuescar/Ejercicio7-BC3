@@ -1,0 +1,4 @@
+7. Contar la frecuencia de cada palabra en un texto
+   
+Problema:
+Contar cuántas veces aparece cada palabra en un texto.
